@@ -1,0 +1,5 @@
+2020/11/28-18:01:21.889 769 Reusing MANIFEST /home/tbear/.config/chromium/Default/IndexedDB/https_www.mail.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/28-18:01:57.348 c0a Level-0 table #5: started
+2020/11/28-18:01:57.424 c0a Level-0 table #5: 19701 bytes OK
+2020/11/28-18:01:57.483 c0a Delete type=0 #3
+2020/11/28-18:01:57.484 c0a Manual compaction at level-0 from (begin) .. (end); will stop at (end)

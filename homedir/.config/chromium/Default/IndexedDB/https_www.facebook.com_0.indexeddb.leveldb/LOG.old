@@ -1,0 +1,15 @@
+2021/03/15-16:11:31.886 15123 Reusing MANIFEST /home/tbear/.config/chromium/Default/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/15-16:11:31.886 15123 Recovering log #11
+2021/03/15-16:11:31.887 15123 Reusing old log /home/tbear/.config/chromium/Default/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/000011.log 
+2021/03/15-16:12:05.448 15033 Level-0 table #16: started
+2021/03/15-16:12:05.550 15033 Level-0 table #16: 666 bytes OK
+2021/03/15-16:12:05.608 15033 Delete type=0 #11
+2021/03/15-16:12:05.609 15033 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/03/15-16:12:05.609 15033 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x0a\x00s\x00w\x00_\x00v\x00e\x00r\x00s\x00i\x00o\x00n' @ 113 : 1
+2021/03/15-16:12:05.609 15033 Compacting 1@1 + 1@2 files
+2021/03/15-16:12:05.661 15033 Generated table #17@1: 22 keys, 658 bytes
+2021/03/15-16:12:05.661 15033 Compacted 1@1 + 1@2 files => 658 bytes
+2021/03/15-16:12:05.800 15033 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/03/15-16:12:05.801 15033 Delete type=2 #13
+2021/03/15-16:12:05.801 15033 Delete type=2 #16
+2021/03/15-16:12:05.801 1523e Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x0a\x00s\x00w\x00_\x00v\x00e\x00r\x00s\x00i\x00o\x00n' @ 113 : 1 .. (end); will stop at (end)

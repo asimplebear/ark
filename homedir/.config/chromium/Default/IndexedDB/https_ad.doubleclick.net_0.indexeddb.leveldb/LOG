@@ -1,0 +1,5 @@
+2020/12/18-00:20:48.517 dddc Reusing MANIFEST /home/tbear/.config/chromium/Default/IndexedDB/https_ad.doubleclick.net_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/18-00:20:54.413 df45 Level-0 table #5: started
+2020/12/18-00:20:54.514 df45 Level-0 table #5: 346 bytes OK
+2020/12/18-00:20:54.603 df45 Delete type=0 #3
+2020/12/18-00:20:54.603 df45 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,15 @@
+2021/02/02-03:04:18.407 11d40 Reusing MANIFEST /home/tbear/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/02/02-03:04:18.408 11d40 Recovering log #15
+2021/02/02-03:04:18.408 11d40 Reusing old log /home/tbear/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000015.log 
+2021/02/02-03:08:40.970 12ca8 Level-0 table #20: started
+2021/02/02-03:08:41.056 12ca8 Level-0 table #20: 32759 bytes OK
+2021/02/02-03:08:41.115 12ca8 Delete type=0 #15
+2021/02/02-03:08:41.115 12ca8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/02/02-03:08:41.115 12ca8 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x04\x02\x02\x01\x14\x00s\x00h\x00e\x00l\x00l\x00_\x00i\x00d\x00e\x00n\x00t\x00i\x00f\x00i\x00e\x00r\x00_\x00k\x00e\x00y' @ 5491 : 1
+2021/02/02-03:08:41.115 12ca8 Compacting 1@1 + 1@2 files
+2021/02/02-03:08:41.234 12ca8 Generated table #21@1: 129 keys, 5171 bytes
+2021/02/02-03:08:41.234 12ca8 Compacted 1@1 + 1@2 files => 5171 bytes
+2021/02/02-03:08:41.292 12ca8 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/02/02-03:08:41.293 12ca8 Delete type=2 #20
+2021/02/02-03:08:41.293 12ca8 Delete type=2 #17
+2021/02/02-03:08:41.293 12ca8 Manual compaction at level-1 from '\x00\x04\x02\x02\x01\x14\x00s\x00h\x00e\x00l\x00l\x00_\x00i\x00d\x00e\x00n\x00t\x00i\x00f\x00i\x00e\x00r\x00_\x00k\x00e\x00y' @ 5491 : 1 .. (end); will stop at (end)

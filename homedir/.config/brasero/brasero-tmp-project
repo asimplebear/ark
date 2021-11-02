@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<braseroproject>
+	<version>0.2</version>
+	<label>Data disc (12 May 21)</label>
+	<track>
+		<data>
+			<icon>/home/tbear/lm/boot/grub/themes/linuxmint/icons/linuxmint.png</icon>
+			<graft>
+				<path>/autorun.inf</path>
+				<uri>file%3A%2F%2F%2Ftmp%2Fbrasero_tmp_YNQD30</uri>
+			</graft>
+			<graft>
+				<path>/Autorun0.ico</path>
+				<uri>file%3A%2F%2F%2Ftmp%2Fbrasero_tmp_H1YA30</uri>
+			</graft>
+			<excluded>file%3A%2F%2F%2Ftmp%2Fbrasero_tmp_YNQD30</excluded>
+			<excluded>file%3A%2F%2F%2Ftmp%2Fbrasero_tmp_H1YA30</excluded>
+		</data>
+	</track>
+</braseroproject>

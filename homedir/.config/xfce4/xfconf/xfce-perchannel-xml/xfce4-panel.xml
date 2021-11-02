@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<channel name="xfce4-panel" version="1.0">
+  <property name="configver" type="empty"/>
+  <property name="panels" type="array">
+    <value type="int" value="1"/>
+    <property name="panel-1" type="empty">
+      <property name="position" type="string" value="p=6;x=512;y=8"/>
+      <property name="length" type="uint" value="100"/>
+      <property name="position-locked" type="bool" value="true"/>
+      <property name="size" type="uint" value="16"/>
+      <property name="background-style" type="uint" value="0"/>
+      <property name="background-alpha" type="empty"/>
+      <property name="enter-opacity" type="uint" value="100"/>
+      <property name="leave-opacity" type="uint" value="100"/>
+      <property name="plugin-ids" type="array">
+        <value type="int" value="6"/>
+        <value type="int" value="7"/>
+        <value type="int" value="2"/>
+        <value type="int" value="8"/>
+        <value type="int" value="9"/>
+        <value type="int" value="10"/>
+        <value type="int" value="11"/>
+        <value type="int" value="12"/>
+        <value type="int" value="1"/>
+        <value type="int" value="3"/>
+      </property>
+      <property name="nrows" type="uint" value="1"/>
+      <property name="background-rgba" type="array">
+        <value type="double" value="0.800000"/>
+        <value type="double" value="0.000000"/>
+        <value type="double" value="0.000000"/>
+        <value type="double" value="1.000000"/>
+      </property>
+      <property name="icon-size" type="uint" value="12"/>
+    </property>
+  </property>
+  <property name="plugins" type="empty">
+    <property name="plugin-1" type="empty"/>
+    <property name="plugin-2" type="string" value="pager">
+      <property name="rows" type="uint" value="1"/>
+    </property>
+    <property name="plugin-3" type="string" value="clock">
+      <property name="items" type="empty"/>
+      <property name="mode" type="uint" value="2"/>
+      <property name="fuzziness" type="uint" value="2"/>
+    </property>
+    <property name="plugin-4" type="empty">
+      <property name="items" type="empty"/>
+    </property>
+    <property name="plugin-5" type="empty">
+      <property name="items" type="empty"/>
+    </property>
+    <property name="plugin-6" type="empty">
+      <property name="show-handle" type="empty"/>
+      <property name="middle-click" type="empty"/>
+    </property>
+    <property name="plugin-7" type="empty">
+      <property name="expand" type="empty"/>
+      <property name="style" type="empty"/>
+    </property>
+    <property name="plugin-8" type="empty">
+      <property name="names-visible" type="empty"/>
+      <property name="show-frame" type="empty"/>
+      <property name="names-ordered" type="array">
+        <value type="string" value="simplescreenrecorder"/>
+        <value type="string" value="networkmanager applet"/>
+      </property>
+    </property>
+    <property name="plugin-9" type="empty"/>
+    <property name="plugin-10" type="empty"/>
+    <property name="plugin-11" type="empty"/>
+    <property name="plugin-12" type="empty">
+      <property name="enable-keyboard-shortcuts" type="empty"/>
+      <property name="enable-mpris" type="empty"/>
+      <property name="mixer-command" type="empty"/>
+      <property name="show-notifications" type="empty"/>
+      <property name="mpris-players" type="string" value="chromium.instance11699;chromium.instance1834;firefox.instance110575;firefox.instance11502;firefox.instance119740;firefox.instance126246;firefox.instance12905;firefox.instance137094;firefox.instance1379;firefox.instance1387;firefox.instance1402;firefox.instance1409;firefox.instance1418;firefox.instance1422;firefox.instance1425;firefox.instance1426;firefox.instance1432;firefox.instance1437;firefox.instance1442;firefox.instance1458;firefox.instance1472;firefox.instance1475;firefox.instance1491;firefox.instance1508;firefox.instance1512;firefox.instance1516;firefox.instance1517;firefox.instance1518;firefox.instance1522;firefox.instance1527;firefox.instance1543;firefox.instance1556;firefox.instance1562;firefox.instance1563;firefox.instance1570;firefox.instance1576;firefox.instance1587;firefox.instance1594;firefox.instance1604;firefox.instance1615;firefox.instance1618;firefox.instance1629;firefox.instance1645;firefox.instance1647;firefox.instance1652;firefox.instance1664;firefox.instance1669;firefox.instance168612;firefox.instance1698;firefox.instance1785;firefox.instance1858;firefox.instance19160;firefox.instance20426;firefox.instance207198;firefox.instance21713;firefox.instance217974;firefox.instance2209;firefox.instance2215;firefox.instance22679;firefox.instance2340;firefox.instance2375;firefox.instance24220;firefox.instance2473;firefox.instance256196;firefox.instance2620;firefox.instance2668;firefox.instance26945;firefox.instance2709;firefox.instance274373;firefox.instance28809;firefox.instance309772;firefox.instance3434;firefox.instance3645;firefox.instance3785;firefox.instance4054;firefox.instance41737;firefox.instance4807;firefox.instance5039;firefox.instance58645;firefox.instance5917;firefox.instance6373;firefox.instance68691;firefox.instance72939;firefox.instance73757;firefox.instance7417;firefox.instance76970;firefox.instance80181;firefox.instance8296;firefox.instance87976;firefox.instance90857;firefox.instance92813;io.github.celluloid_player.Celluloid.instance-1;io.github.celluloid_player.Celluloid.instance-2"/>
+    </property>
+    <property name="plugin-13" type="empty">
+      <property name="digital-format" type="empty"/>
+    </property>
+  </property>
+</channel>

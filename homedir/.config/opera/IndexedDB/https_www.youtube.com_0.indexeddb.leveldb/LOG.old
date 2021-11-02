@@ -1,0 +1,8 @@
+2020/11/16-18:25:02.971 2dc4 Reusing MANIFEST /home/tbear/.config/opera/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/16-18:25:02.972 2dc4 Recovering log #4
+2020/11/16-18:25:02.972 2dc4 Reusing old log /home/tbear/.config/opera/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000004.log 
+2020/11/16-18:42:29.387 2f6e Level-0 table #8: started
+2020/11/16-18:42:29.423 2f6e Level-0 table #8: 0 bytes OK
+2020/11/16-18:42:29.576 2f6e Delete type=0 #4
+2020/11/16-18:42:29.576 2f6e Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/11/16-18:42:29.576 2f6e Manual compaction at level-1 from (begin) .. (end); will stop at (end)

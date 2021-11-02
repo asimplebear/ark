@@ -1,0 +1,21 @@
+00:00:00.930712 VirtualBox GUI VM Selector Window 6.1.22 r144080 linux.amd64 (Apr 28 2021 17:25:25) release log
+00:00:00.930716 Log opened 2021-05-26T16:56:32.483458000Z
+00:00:00.930717 Build Type: release
+00:00:00.930726 OS Product: Linux
+00:00:00.930728 OS Release: 5.4.0-54-generic
+00:00:00.930729 OS Version: #60-Ubuntu SMP Fri Nov 6 10:37:59 UTC 2020
+00:00:00.930781 DMI Product Name: Satellite C55t-A
+00:00:00.930798 DMI Product Version: PSCF6U-01T00D
+00:00:00.930814 Firmware type: UEFI
+00:00:00.930965 Secure Boot: Disabled
+00:00:00.931032 Host RAM: 3798MB (3.7GB) total, 2322MB (2.2GB) available
+00:00:00.931039 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.931039 Process ID: 4395
+00:00:00.931040 Package type: LINUX_64BITS_UBUNTU_19_10
+00:00:00.931089 Qt version: 5.12.8
+00:00:01.027701 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:02.084479 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 0x17 x 1024x751
+00:00:02.092620 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 1 work area is actually resized to: 0x17 x 1024x751
+00:00:02.133426 GUI: UIMediumEnumerator: Medium-enumeration finished!
+03:51:37.926632 GUI: UIMediumEnumerator: Medium with key={{fff4a07c-d4b7-4445-a66c-c2b086810644}} created
+03:51:37.955216 Log rotated - Log started 2021-05-26T16:56:32.483458000Z

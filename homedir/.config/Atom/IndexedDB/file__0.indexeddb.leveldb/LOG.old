@@ -1,0 +1,36 @@
+2021/01/04-20:15:20.052 dbc Reusing MANIFEST /home/tbear/.config/Atom/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2021/01/04-20:15:20.052 dbc Recovering log #92
+2021/01/04-20:15:20.057 dbc Reusing old log /home/tbear/.config/Atom/IndexedDB/file__0.indexeddb.leveldb/000092.log 
+2021/01/04-20:26:04.296 ea2 Compacting 1@1 + 1@2 files
+2021/01/04-20:26:04.504 ea2 Generated table #96@1: 1875 keys, 120743 bytes
+2021/01/04-20:26:04.504 ea2 Compacted 1@1 + 1@2 files => 120743 bytes
+2021/01/04-20:26:04.576 ea2 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/01/04-20:26:04.576 ea2 Delete type=2 #84
+2021/01/04-20:26:04.577 ea2 Delete type=2 #94
+2021/01/04-20:51:20.632 ea2 Level-0 table #98: started
+2021/01/04-20:51:20.764 ea2 Level-0 table #98: 1528280 bytes OK
+2021/01/04-20:51:20.827 ea2 Delete type=0 #92
+2021/01/05-09:39:39.430 ea2 Compacting 1@1 + 1@2 files
+2021/01/05-09:39:39.781 ea2 Generated table #99@1: 1947 keys, 123903 bytes
+2021/01/05-09:39:39.781 ea2 Compacted 1@1 + 1@2 files => 123903 bytes
+2021/01/05-09:39:39.842 ea2 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/01/05-09:39:39.842 ea2 Delete type=2 #98
+2021/01/05-09:39:39.843 ea2 Delete type=2 #96
+2021/01/05-09:57:57.982 ea2 Level-0 table #101: started
+2021/01/05-09:57:58.156 ea2 Level-0 table #101: 1403999 bytes OK
+2021/01/05-09:57:58.219 ea2 Delete type=0 #97
+2021/01/05-11:47:25.388 ea2 Compacting 1@1 + 1@2 files
+2021/01/05-11:47:25.522 ea2 Generated table #102@1: 1953 keys, 124848 bytes
+2021/01/05-11:47:25.522 ea2 Compacted 1@1 + 1@2 files => 124848 bytes
+2021/01/05-11:47:25.583 ea2 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/01/05-11:47:25.583 ea2 Delete type=2 #99
+2021/01/05-11:47:25.583 ea2 Delete type=2 #101
+2021/01/05-12:27:54.120 ea2 Level-0 table #104: started
+2021/01/05-12:27:54.265 ea2 Level-0 table #104: 1649221 bytes OK
+2021/01/05-12:27:54.326 ea2 Delete type=0 #100
+2021/01/05-12:49:50.160 ea2 Compacting 1@1 + 1@2 files
+2021/01/05-12:49:50.313 ea2 Generated table #105@1: 1963 keys, 124127 bytes
+2021/01/05-12:49:50.313 ea2 Compacted 1@1 + 1@2 files => 124127 bytes
+2021/01/05-12:49:50.396 ea2 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/01/05-12:49:50.396 ea2 Delete type=2 #104
+2021/01/05-12:49:50.397 ea2 Delete type=2 #102

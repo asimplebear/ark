@@ -1,0 +1,5 @@
+2020/11/16-22:54:48.135 494d Reusing MANIFEST /home/tbear/.config/opera/IndexedDB/https_7c836475ceb314897ecbf906ca2a885d.safeframe.googlesyndication.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/16-22:54:59.259 48ec Level-0 table #5: started
+2020/11/16-22:54:59.316 48ec Level-0 table #5: 439 bytes OK
+2020/11/16-22:54:59.405 48ec Delete type=0 #3
+2020/11/16-22:54:59.405 48ec Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,8 @@
+2020/12/18-00:44:43.015 e216 Reusing MANIFEST /home/tbear/.config/chromium/Default/IndexedDB/https_jac.yahoosandbox.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/18-00:44:43.016 e216 Recovering log #10
+2020/12/18-00:44:43.016 e216 Reusing old log /home/tbear/.config/chromium/Default/IndexedDB/https_jac.yahoosandbox.com_0.indexeddb.leveldb/000010.log 
+2020/12/18-00:44:51.406 e216 Level-0 table #14: started
+2020/12/18-00:44:51.406 e216 Level-0 table #14: 0 bytes OK
+2020/12/18-00:44:51.476 e216 Delete type=0 #10
+2020/12/18-00:44:51.476 e216 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/12/18-00:44:51.477 e216 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,5 @@
+2021/01/28-18:34:00.239 72ee6 Reusing MANIFEST /home/tbear/.config/chromium/Default/IndexedDB/https_money.cnn.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/01/28-18:35:52.321 7364b Level-0 table #5: started
+2021/01/28-18:35:52.455 7364b Level-0 table #5: 3367 bytes OK
+2021/01/28-18:35:52.517 7364b Delete type=0 #3
+2021/01/28-18:35:52.517 7364b Manual compaction at level-0 from (begin) .. (end); will stop at (end)

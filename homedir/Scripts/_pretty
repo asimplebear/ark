@@ -1,0 +1,28 @@
+#!/usr/bin/python3
+
+
+# <ctrl> + p
+
+#prettify contents of clipboard.  result replaces
+#original in the clipboard.
+#string -> python object -> pprint of object
+
+import pyperclip
+import pprint
+import json
+
+st = pyperclip.paste()
+pyob = json.loads(st)
+pyst = pprint.pformat(pyob)
+pyperclip.copy(pyst)
+
+
+
+
+
+{2:{3:4},    3:    {3:4, 4:5}    
+}
+
+
+
+

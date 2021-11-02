@@ -1,0 +1,262 @@
+{
+   "checksum": "0e3002a33641cea25fd270190473a581",
+   "roots": {
+      "bookmark_bar": {
+         "children": [  ],
+         "date_added": "13250024268994388",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "custom_root": {
+         "speedDial": {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13250024284648829",
+                  "guid": "d641b343-61e7-4b81-8d94-71996ec3b890",
+                  "id": "9",
+                  "meta_info": {
+                     "favicon_url": "https://sd-images.operacdn.com/api/v1/images/19ea7f40b1ae613c104a34d808d66a2d5d42d752.png",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/7f04e2fb73f4ec7f2ca125d2842523c757d3cf8b.png",
+                     "imageDataType": "2",
+                     "imageID": "0A04E00C4607F268D1000DD29FB11AC16E1DC38E9CCD535B084AF87ABA45F514",
+                     "imageType": "2",
+                     "partner_id": "amazon_us",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/7f04e2fb73f4ec7f2ca125d2842523c757d3cf8b.png",
+                     "partner_url": "http://www.amazon.com/?tag=operadesktop14-sd-us-20",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/amazon_us",
+                     "revision": "20201013",
+                     "server_position": "1"
+                  },
+                  "name": "Amazon.com",
+                  "type": "url",
+                  "url": "http://www.amazon.com/"
+               }, {
+                  "date_added": "13250024284657254",
+                  "guid": "e64c72f3-4116-4459-b3d2-2a01d1fd38c0",
+                  "id": "10",
+                  "meta_info": {
+                     "favicon_url": "https://sd-images.operacdn.com/api/v1/images/7cf961789fe79e374395db2135e3511cc5fe0cd6.png",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/e2653358daac1327db358b2baff1ec56c8700ec3.png",
+                     "imageDataType": "2",
+                     "imageID": "5856580431A344785082CAC829A71C16B9512D415DF24B7F393D146CE0C12844",
+                     "imageType": "2",
+                     "partner_id": "ebay_us",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/e2653358daac1327db358b2baff1ec56c8700ec3.png",
+                     "partner_url": "http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=1&pub=5574672411&toolid=10001&campid=5337314645&customid=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/ebay_us",
+                     "revision": "20171003",
+                     "server_position": "2"
+                  },
+                  "name": "eBay",
+                  "type": "url",
+                  "url": "http://www.ebay.com/"
+               }, {
+                  "date_added": "13250024284664991",
+                  "guid": "85ffb631-4aab-484a-b265-bec25836fca3",
+                  "id": "11",
+                  "meta_info": {
+                     "favicon_url": "https://sd-images.operacdn.com/api/v1/images/a07ea74aa0b3aae5b7dc37789a2e834b1e883060.png",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/bd1ec98a8b358bc0cf68cad5a59c192b56d12dfc.png",
+                     "imageDataType": "2",
+                     "imageID": "2927498828C5AE69F685B89AB2C78250E59651632542A7013555819175954B5B",
+                     "imageType": "2",
+                     "partner_id": "booking_com_us",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/bd1ec98a8b358bc0cf68cad5a59c192b56d12dfc.png",
+                     "partner_url": "https://www.booking.com/index.html?aid=348192&label=operasoft-sdg015-348192&utm_source=Opera&utm_medium=web&utm_campaign=sdg015",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/booking_com_us",
+                     "revision": "20200710",
+                     "server_position": "3"
+                  },
+                  "name": "Booking.com: Cheap Hotels",
+                  "type": "url",
+                  "url": "https://www.booking.com/"
+               }, {
+                  "date_added": "13250024284671353",
+                  "guid": "783eaec0-497c-4325-aece-32985b99f617",
+                  "id": "12",
+                  "meta_info": {
+                     "favicon_url": "https://sd-images.operacdn.com/api/v1/images/609fa7dfdac6e13e43d220628faf73eb0bc67ff2.png",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/599423f462d2b4441842d9855493917934da2cf9.png",
+                     "imageDataType": "2",
+                     "imageID": "82909B926406328D2284882A01F1B0C7B86BE1724BDEE92E92B80490E683F7EE",
+                     "imageType": "2",
+                     "partner_id": "aliexpress_com_us",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/599423f462d2b4441842d9855493917934da2cf9.png",
+                     "partner_url": "https://s.click.aliexpress.com/e/_dZ0copP",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/aliexpress_com_us",
+                     "revision": "20171003",
+                     "server_position": "4"
+                  },
+                  "name": "AliExpress",
+                  "type": "url",
+                  "url": "http://aliexpress.com/"
+               }, {
+                  "date_added": "13250024284675935",
+                  "guid": "b68a1594-d99d-4c9a-84a0-bac76fbf6979",
+                  "id": "13",
+                  "meta_info": {
+                     "favicon_url": "https://sd-images.operacdn.com/api/v1/images/037dd67b44c3f90140a40d76b542f480f5981dc7.png",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/7d4d0a497c452d7a476a16f74b6b0f2165496b7e.png",
+                     "imageDataType": "2",
+                     "imageID": "9C4C67D97E8D500795A584CF7E2195D1AA9C30677B5D1F36E79EEECED8165AA5",
+                     "imageType": "2",
+                     "partner_id": "kayak_us",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/7d4d0a497c452d7a476a16f74b6b0f2165496b7e.png",
+                     "partner_url": "https://www.kayak.com/in?a=operabrowser&url=/flights&hotels&encoder=27_1&enc_pid=deeplinks&enc_cid=0&enc_lid=SSD_US&enc_cid=&utm_source=operabrowser&utm_medium=affiliate&utm_term=rev&utm_campaign=deeplinks&utm_content={SD_US}",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/kayak_us",
+                     "revision": "20190716",
+                     "server_position": "6"
+                  },
+                  "name": "Kayak",
+                  "type": "url",
+                  "url": "https://www.kayak.com/"
+               }, {
+                  "date_added": "13250024284684882",
+                  "guid": "bd83cf70-63cb-44a9-b3ad-ed4e1fe501f6",
+                  "id": "14",
+                  "meta_info": {
+                     "favicon_url": "https://sd-images.operacdn.com/api/v1/images/6d5761791dfa005fb69e1f3c41888473d8b00b6c.png",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/88a052baf84a18b6cd8cab75f474e191f8cbf431.png",
+                     "imageDataType": "2",
+                     "imageID": "9E1572F9E88ADCDCE0EE64107DA3DB59B89DFC09755092DE3AF7E43C5667FFCC",
+                     "imageType": "2",
+                     "partner_id": "worldofwarships_us",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/88a052baf84a18b6cd8cab75f474e191f8cbf431.png",
+                     "partner_url": "https://rdr.wargaming.net/k9htkbb3/?pub_id=sd_us",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/worldofwarships_us",
+                     "revision": "20181130",
+                     "server_position": "9"
+                  },
+                  "name": "World of Warships",
+                  "type": "url",
+                  "url": "https://worldofwarships.com/"
+               }, {
+                  "date_added": "13250024284687070",
+                  "guid": "054e9647-0e0a-4dde-9079-878c124ca1da",
+                  "id": "15",
+                  "meta_info": {
+                     "favicon_url": "https://sd-images.operacdn.com/api/v1/images/336f945906478bb7548a0f88644bf8a2f24c1e9a.png",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/95a166aba7935fc6dc7d7e1d2f76e9a544600b99.png",
+                     "imageDataType": "2",
+                     "imageID": "C4757800391D7ACAE7E65B54D248B3DC77582FB4021FCDB647D893A2A6A8730F",
+                     "imageType": "2",
+                     "partner_id": "forgeofempires_us",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/95a166aba7935fc6dc7d7e1d2f76e9a544600b99.png",
+                     "partner_url": "https://om.forgeofempires.com/foe/us/?ref=operafix_us_us",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/forgeofempires_us",
+                     "revision": "20190814",
+                     "server_position": "10"
+                  },
+                  "name": "Forge of Empires",
+                  "type": "url",
+                  "url": "https://www.innogames.com/"
+               }, {
+                  "date_added": "13250024284691435",
+                  "guid": "273f5a33-3b2c-4193-a06c-64f9d6144c58",
+                  "id": "16",
+                  "meta_info": {
+                     "favicon_url": "https://sd-images.operacdn.com/api/v1/images/8b8c6b974eba4571acec86d747c00b1c45e50d22.png",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/24f18a7c8215fb2d9708b4d5a7618fc77b1ca54a.png",
+                     "imageDataType": "2",
+                     "imageID": "3C1A7001D4D79352E4A5BAF605DAA696313DFD7625D3C87F6C44844076B4A30F",
+                     "imageType": "2",
+                     "partner_id": "raidshadows_us",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/24f18a7c8215fb2d9708b4d5a7618fc77b1ca54a.png",
+                     "partner_url": "https://plarium.com/landings/en/desktop/raid/beginners_tips_mr_droapp?plid=357916&pxl=opera_browser&clickId={}&publisherId={}&placement={}",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/raidshadows_us",
+                     "revision": "20200910",
+                     "server_position": "11"
+                  },
+                  "name": "Raid Shadow Legends",
+                  "type": "url",
+                  "url": "https://plarium.com/"
+               }, {
+                  "date_added": "13250024284695629",
+                  "guid": "2d9f8570-a513-4163-a2f9-bd52694b876a",
+                  "id": "17",
+                  "meta_info": {
+                     "favicon_url": "https://sd-images.operacdn.com/api/v1/images/0db6916b3db5f955d7f2acf39ade36900b5eb72b.png",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/6c59cecb2f753414aabf54e0ed64719b2f5d015f.png",
+                     "imageDataType": "2",
+                     "imageID": "7F24B1FBC6A8D0B8707A0B39D5061E83A26B33A9D7EAFE8BE32ED085516C3760",
+                     "imageType": "2",
+                     "partner_id": "got_us",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/6c59cecb2f753414aabf54e0ed64719b2f5d015f.png",
+                     "partner_url": "https://www.r2games.com/link.php?id=1008576&subid=US_SD",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/got_us",
+                     "revision": "20200928",
+                     "server_position": "12"
+                  },
+                  "name": "Game of Thrones",
+                  "type": "url",
+                  "url": "https://www.r2games.com/"
+               } ],
+               "date_added": "13250024284120451",
+               "date_modified": "13250024284695629",
+               "guid": "8c27b15a-2073-4881-be23-0b9f68558b80",
+               "id": "8",
+               "meta_info": {
+                  "speed_dial_root_folder_guid": "1321f66a-bf21-4fbc-99db-db1898fab2ea"
+               },
+               "name": "tbear-Satellite-C55t-A",
+               "type": "folder"
+            } ],
+            "date_added": "13250024268994483",
+            "date_modified": "0",
+            "guid": "00000000-0000-4000-a000-000000000904",
+            "id": "6",
+            "name": "Speed Dials",
+            "type": "folder"
+         },
+         "trash": {
+            "children": [  ],
+            "date_added": "13250024268994504",
+            "date_modified": "0",
+            "guid": "00000000-0000-4000-a000-000000000905",
+            "id": "7",
+            "name": "Trash",
+            "type": "folder"
+         },
+         "unsorted": {
+            "children": [  ],
+            "date_added": "13250024268994469",
+            "date_modified": "0",
+            "guid": "00000000-0000-4000-a000-000000000901",
+            "id": "4",
+            "name": "Unsorted bookmarks",
+            "type": "folder"
+         },
+         "userRoot": {
+            "children": [  ],
+            "date_added": "13250024268994480",
+            "date_modified": "0",
+            "guid": "00000000-0000-4000-a000-000000000902",
+            "id": "5",
+            "name": "Other bookmarks",
+            "type": "folder"
+         }
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13250024268994392",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Imported bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13250024268994394",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

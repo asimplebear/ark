@@ -1,0 +1,8 @@
+2020/11/16-22:42:25.204 45f4 Reusing MANIFEST /home/tbear/.config/opera/IndexedDB/chrome-extension_obhaigpnhcioanniiaepcgkdilopflbb_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/16-22:42:25.205 45f4 Recovering log #10
+2020/11/16-22:42:25.205 45f4 Reusing old log /home/tbear/.config/opera/IndexedDB/chrome-extension_obhaigpnhcioanniiaepcgkdilopflbb_0.indexeddb.leveldb/000010.log 
+2020/11/16-22:56:09.049 4d1e Level-0 table #14: started
+2020/11/16-22:56:09.049 4d1e Level-0 table #14: 0 bytes OK
+2020/11/16-22:56:09.389 4d1e Delete type=0 #10
+2020/11/16-22:56:09.390 4d1e Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/11/16-22:56:09.390 4d1e Manual compaction at level-1 from (begin) .. (end); will stop at (end)

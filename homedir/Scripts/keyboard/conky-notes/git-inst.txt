@@ -1,0 +1,15 @@
+git branch <s>
+git checkout <s>
+-work-
+git add <files>
+git commit -m "ok"
+git push -u origin <s>
+git checkout master
+git pull origin master
+git merge <s>
+git push origin master
+git branch -d <s>
+
+
+git remote add origin https://...
+git push --set-upstream origin master

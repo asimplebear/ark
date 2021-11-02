@@ -1,0 +1,8 @@
+2020/12/18-00:20:47.604 dddc Reusing MANIFEST /home/tbear/.config/chromium/Default/IndexedDB/https_jac.yahoosandbox.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/18-00:20:47.778 dddc Recovering log #7
+2020/12/18-00:20:47.778 dddc Reusing old log /home/tbear/.config/chromium/Default/IndexedDB/https_jac.yahoosandbox.com_0.indexeddb.leveldb/000007.log 
+2020/12/18-00:21:32.366 df41 Level-0 table #11: started
+2020/12/18-00:21:32.366 df41 Level-0 table #11: 0 bytes OK
+2020/12/18-00:21:32.474 df41 Delete type=0 #7
+2020/12/18-00:21:32.474 df41 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/12/18-00:21:32.475 df41 Manual compaction at level-1 from (begin) .. (end); will stop at (end)
